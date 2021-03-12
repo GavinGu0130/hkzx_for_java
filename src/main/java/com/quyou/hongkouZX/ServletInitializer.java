@@ -1,4 +1,4 @@
-package hongkouZX;
+package com.quyou.hongkouZX;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

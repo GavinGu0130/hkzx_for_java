@@ -1,4 +1,4 @@
-package hongkouZX.Controller;
+package com.quyou.hongkouZX.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -12,6 +12,6 @@ public class DemoController {
     public String helloABC(Model model){
         model.addAttribute("gavin", "demo is success !");
         model.addAttribute("gavin1", "hello1 is success !");
-        return "hello";
+        return "hello1";
     }
 }

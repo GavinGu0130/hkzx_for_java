@@ -1,4 +1,4 @@
-package hongkouZX.config;
+package com.quyou.hongkouZX.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;
